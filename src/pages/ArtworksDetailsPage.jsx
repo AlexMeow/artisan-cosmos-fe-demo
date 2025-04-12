@@ -5,6 +5,7 @@ import ArtworkDetails from '../components/ArtworkDetails';
 import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import Swal from 'sweetalert2';
+import { baseUrl } from '../config/config';
 
 const ArtworkDetailsPage = () => {
     const [artworks, setArtworks] = useState([]);
@@ -15,7 +16,7 @@ const ArtworkDetailsPage = () => {
             try {
                 setIsLoading(true);
                 Swal.showLoading();
-                const res = await fetch("/data/get-all-works.json");
+                const res = await fetch(`${baseUrl}/data/get-all-works.json`);
                 const data = await res.json();
                 setArtworks(data);
             } catch (error) {

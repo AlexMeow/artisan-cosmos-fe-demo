@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 import Swal from "sweetalert2";
 import { jwtDecode } from "jwt-decode";
 import Editor from 'react-simple-wysiwyg';
+import { baseUrl } from '../config/config';
 
 const ArtistProfile = ({ artist }) => {
     const [artworks, setArtworks] = useState([]);
@@ -40,7 +41,7 @@ const ArtistProfile = ({ artist }) => {
                 try {
                     Swal.showLoading();
                     // const res = await fetch(`http://localhost:8080/api/works/author/${artist.id}`);
-                    const res = await fetch(`/data/works-author_${artist.id}.json`);
+                    const res = await fetch(`${baseUrl}/data/works-author_${artist.id}.json`);
                     const data = await res.json();
                     setArtworks(data);
                 } catch (error) {
@@ -200,7 +201,7 @@ const ArtistProfile = ({ artist }) => {
                         currentUserId === currentArtist.id ? (
                             <div className="user-avatar-container">
                                 <img
-                                    src={currentArtist.avatarUrl}
+                                    src={baseUrl + currentArtist.avatarUrl}
                                     className="user-avatar rounded-circle"
                                     alt="Artist Photo"
                                     style={{ cursor: 'pointer' }}
@@ -219,7 +220,7 @@ const ArtistProfile = ({ artist }) => {
                             </div>
                         ) : (
                             <img
-                                src={currentArtist.avatarUrl}
+                                src={baseUrl + currentArtist.avatarUrl}
                                 className="user-avatar rounded-circle"
                                 alt="Artist Photo"
                             />

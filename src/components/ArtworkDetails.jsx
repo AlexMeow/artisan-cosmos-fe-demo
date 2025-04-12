@@ -6,6 +6,7 @@ import Swal from 'sweetalert2';
 import { jwtDecode } from 'jwt-decode';
 import { useNavigate } from 'react-router-dom';
 import Editor from 'react-simple-wysiwyg';
+import { baseUrl } from '../config/config';
 
 const ArtworkDetails = ({ artwork }) => {
     const navigate = useNavigate();
@@ -263,7 +264,7 @@ const ArtworkDetails = ({ artwork }) => {
                                     <Carousel.Item key={index}>
                                         <img
                                             className="d-block w-100"
-                                            src={url}
+                                            src={baseUrl + url}
                                             alt={`${currentArtwork.name} - ${index + 1}`}
                                         />
                                     </Carousel.Item>
@@ -272,7 +273,7 @@ const ArtworkDetails = ({ artwork }) => {
                         ) : (
                             <img
                                 className="d-block w-100 mb-3"
-                                src={currentArtwork.imgUrls[0]}
+                                src={baseUrl + currentArtwork.imgUrls[0]}
                                 alt={`${currentArtwork.name}`}
                             />
                         )
@@ -306,10 +307,10 @@ const ArtworkDetails = ({ artwork }) => {
 
                     <div className="row">
                         <div className="col-md-3">
-                            <img className="img-fluid artist-image" src={currentArtwork.artist.avatarUrl}></img>
+                            <img className="img-fluid artist-image" src={baseUrl + currentArtwork.artist.avatarUrl}></img>
                         </div>
                         <div className="col-md-9">
-                            <p className="text-muted">by <a href={`/artist/${currentArtwork.artist.id}`}>{currentArtwork.artist.name}</a></p>
+                            <p className="text-muted">by <a href={`${baseUrl}#/artist/${currentArtwork.artist.id}`}>{currentArtwork.artist.name}</a></p>
                             <p>{currentArtwork.artist.jobTitle}</p>
                         </div>
                     </div>

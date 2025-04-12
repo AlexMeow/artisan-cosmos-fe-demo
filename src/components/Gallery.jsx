@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-
+import { baseUrl } from '../config/config';
 
 const Gallery = ({ artworks }) => {
     const [visibleArtworks, setVisibleArtworks] = useState(15);
@@ -15,11 +15,11 @@ const Gallery = ({ artworks }) => {
                 {artworks.slice(0, visibleArtworks).map((artwork) => (
                     <div key={artwork.id} className="gallery-item">
                         <Link to={`/artwork/${artwork.id}`}>
-                            <img src={artwork.imgUrls[0]} alt={artwork.name} />
+                            <img src={baseUrl + artwork.imgUrls[0]} alt={artwork.name} />
                             <div className="overlay">
                                 <div className="text">
                                     <h4>{artwork.name}</h4>
-                                    <p><img className="author-avatar" src={artwork.artist.avatarUrl}></img> {artwork.artist.name}</p>
+                                    <p><img className="author-avatar" src={baseUrl + artwork.artist.avatarUrl}></img> {artwork.artist.name}</p>
                                 </div>
                             </div>
                         </Link>

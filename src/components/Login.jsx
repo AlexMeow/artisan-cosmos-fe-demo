@@ -162,7 +162,13 @@ const Login = () => {
                 }
                 // console.log(message);
             } catch (error) {
-                console.error('Error:', error);
+                console.error(error);
+                Swal.fire({
+                    icon: "error",
+                    title: "Oops...",
+                    text: "Something went wrong while connecting to the server.",
+                    footer: '<a href="#">Try again later</a>'
+                });
             }
         } else if (confirmPassword !== registerData.password) {
             Swal.fire({
@@ -243,6 +249,12 @@ const Login = () => {
             }
         } catch (error) {
             console.error(error);
+            Swal.fire({
+                icon: "error",
+                title: "Oops...",
+                text: "Something went wrong while connecting to the server.",
+                footer: '<a href="#">Try again later</a>'
+            });
         }
     };
 

@@ -4,6 +4,7 @@ import Footer from '../components/Footer';
 import ArtistProfile from '../components/ArtistProfile';
 import { useParams } from 'react-router-dom';
 import Swal from 'sweetalert2';
+import { baseUrl } from '../config/config';
 
 const ArtistProfilePage = () => {
     const [artist, setArtist] = useState(null);
@@ -16,7 +17,7 @@ const ArtistProfilePage = () => {
             try {
                 setIsLoading(true);
                 Swal.showLoading();
-                const res = await fetch(`/data/artist_${id}.json`, {
+                const res = await fetch(`${baseUrl}/data/artist_${id}.json`, {
                     cache: "no-store"
                 });
                 if (!res.ok) {

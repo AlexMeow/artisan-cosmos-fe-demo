@@ -3,6 +3,7 @@ import Gallery from "./Gallery";
 import { faUserPlus, faUpload, faPencil, faGear } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Swal from "sweetalert2";
+import { baseUrl } from '../config/config';
 
 const Browse = ({ selectedTag }) => {
     const [artworks, setArtworks] = useState([]);
@@ -11,7 +12,7 @@ const Browse = ({ selectedTag }) => {
         console.log(selectedTag);
         const fetchArtworks = async () => {
             try {
-                let url = "/data/get-all-works.json";
+                let url = `${baseUrl}/data/get-all-works.json`;
                 if (selectedTag) {
                     url += `?tag=${selectedTag}`;
                   }

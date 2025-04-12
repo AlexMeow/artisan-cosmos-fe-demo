@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Artists from '../components/Artists';
 import Swal from 'sweetalert2';
+import { baseUrl } from '../config/config';
 
 const ArtistsPage = () => {
   const [isLoading, setIsLoading] = useState(false);
@@ -13,7 +14,7 @@ const ArtistsPage = () => {
       try {
         setIsLoading(true);
         Swal.showLoading();
-        const res = await fetch("/data/get-all-artists.json");
+        const res = await fetch(`${baseUrl}/data/get-all-artists.json`);
         const data = await res.json();
         setArtist(data);
       } catch (error) {

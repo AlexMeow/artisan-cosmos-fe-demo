@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import LoginPage from './pages/LoginPage';
 import BrowsePage from './pages/BrowsePage';
@@ -16,7 +16,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <Router basename="/artisan-cosmos-fe-demo">
+    <Router>
       <Routes>
         <Route path="/" exact="true" element={<HomePage />} />
         <Route path="/browse" exact="true" element={<BrowsePage />} />

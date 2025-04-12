@@ -3,7 +3,7 @@ import Artists from './Artists';
 import Gallery from './Gallery';
 import { Link } from 'react-router-dom';
 import Swal from 'sweetalert2';
-
+import { baseUrl } from '../config/config';
 
 const Home = () => {
     const [isLoading, setIsLoading] = useState(false);
@@ -15,8 +15,8 @@ const Home = () => {
             try {
                 setIsLoading(true);
                 Swal.showLoading();
-                const res = await fetch(`/data/get-all-works.json`);
-                const res2 = await fetch("/data/get-all-artists.json");
+                const res = await fetch(`${baseUrl}/data/get-all-works.json`);
+                const res2 = await fetch(`${baseUrl}/data/get-all-artists.json`);
                 if (!res.ok) {
                     throw new Error("Works not found");
                 }
