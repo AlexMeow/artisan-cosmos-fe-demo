@@ -10,8 +10,8 @@ const Footer = () => {
 
                             <br />Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a>  Distributed By <a href="https://themewagon.com" target="_blank" >ThemeWagon</a>
                             <br />※ 所有圖片素材僅用於網站展示，版權歸原作者所有，禁止下載及上傳至其他網站。
-                            <br />建議使用電腦瀏覽本網站。
-                            <br />© 2025 Chris Meow — Frontend only demo, all data are simulated.</p>
+                            <br />© 2025 Chris Meow — Frontend only demo, all data are simulated.
+                            <br />建議使用電腦瀏覽本網站。</p>
                     </div>
                 </div>
             </div>
