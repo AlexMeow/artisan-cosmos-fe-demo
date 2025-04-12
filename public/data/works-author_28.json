@@ -1,0 +1,65 @@
+[
+  {
+    "id": 41,
+    "name": "Sculpture",
+    "tags": [
+      "產品設計",
+      "Sculpture"
+    ],
+    "description": "造型花瓶<div>(照片來源：<a href=\"https://unsplash.com/photos/red-and-white-flowers-on-white-ceramic-figurine-xwgBzMnZLhU\">https://unsplash.com/photos/red-and-white-flowers-on-white-ceramic-figurine-xwgBzMnZLhU</a>)</div>",
+    "imgUrls": [
+      "/images/41.jpg"
+    ],
+    "authorId": 28,
+    "createdDate": "2024-07-03T07:47:02.000+00:00",
+    "artist": {
+      "id": 28,
+      "name": "企鵝",
+      "jobTitle": "接案中",
+      "bio": "<h2>嘿嘿:D</h2><div>頭圖來源：<a href=\"https://www.irasutoya.com/2022/07/blog-post_05.html\">Irasutoya</a></div>",
+      "createdDate": "2024-07-03T07:45:04.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        27
+      ],
+      "following": [
+        23,
+        29,
+        25
+      ],
+      "avatarUrl": "/images/animal_chara_radio_penguin.png"
+    }
+  },
+    {
+    "id": 47,
+    "name": "手工牛津鞋",
+    "tags": [
+      "產品設計"
+    ],
+    "description": "照片來源：<a href=\"https://unsplash.com/photos/unpaired-green-leather-shoe-on-top-of-white-box-KStSiM1UvPw\">https://unsplash.com/photos/unpaired-green-leather-shoe-on-top-of-white-box-KStSiM1UvPw</a>",
+    "imgUrls": [
+      "/images/47.jpg"
+    ],
+    "authorId": 28,
+    "createdDate": "2024-07-03T08:11:17.000+00:00",
+    "artist": {
+      "id": 28,
+      "name": "企鵝",
+      "jobTitle": "接案中",
+      "bio": "<h2>嘿嘿:D</h2><div>頭圖來源：<a href=\"https://www.irasutoya.com/2022/07/blog-post_05.html\">Irasutoya</a></div>",
+      "createdDate": "2024-07-03T07:45:04.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        27
+      ],
+      "following": [
+        23,
+        29,
+        25
+      ],
+      "avatarUrl": "/images/animal_chara_radio_penguin.png"
+    }
+  }
+]

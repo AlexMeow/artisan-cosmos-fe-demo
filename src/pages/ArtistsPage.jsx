@@ -13,7 +13,7 @@ const ArtistsPage = () => {
       try {
         setIsLoading(true);
         Swal.showLoading();
-        const res = await fetch("http://localhost:8080/api/artists/get-all-artists");
+        const res = await fetch("/data/get-all-artists.json");
         const data = await res.json();
         setArtist(data);
       } catch (error) {

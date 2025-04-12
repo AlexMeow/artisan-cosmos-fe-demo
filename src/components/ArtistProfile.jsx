@@ -39,7 +39,8 @@ const ArtistProfile = ({ artist }) => {
             if (artist.id) {
                 try {
                     Swal.showLoading();
-                    const res = await fetch(`http://localhost:8080/api/works/author/${artist.id}`);
+                    // const res = await fetch(`http://localhost:8080/api/works/author/${artist.id}`);
+                    const res = await fetch(`/data/works-author_${artist.id}.json`);
                     const data = await res.json();
                     setArtworks(data);
                 } catch (error) {

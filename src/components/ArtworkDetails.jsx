@@ -382,10 +382,28 @@ const ArtworkDetails = ({ artwork }) => {
                         )
                     ) : (
                         <div className="d-flex justify-content-between align-items-center">
-                            <button className="btn btn-outline-secondary secondary-button">
+                            <button className="btn btn-outline-secondary secondary-button" onClick=
+                                {() => {
+                                    Swal.fire({
+                                        icon: "warning",
+                                        title: "Oops...",
+                                        text: "Please log in first!",
+                                    });
+                                    navigate("/login");
+                                }}
+                            >
                                 <FontAwesomeIcon icon={faThumbsUp} /> Like
                             </button>
-                            <button className="btn btn-outline-primary main-button">
+                            <button className="btn btn-outline-primary main-button" onClick=
+                                {() => {
+                                    Swal.fire({
+                                        icon: "warning",
+                                        title: "Oops...",
+                                        text: "Please log in first!",
+                                    });
+                                    navigate("/login");
+                                }}
+                            >
                                 <FontAwesomeIcon icon={faStar} /> Favorite
                             </button>
                         </div>

@@ -1,0 +1,16 @@
+{
+	"id": 23,
+	"name": "Tommy",
+	"jobTitle": null,
+	"bio": "Write something about you! :)",
+	"createdDate": "2024-07-03T07:12:17.000+00:00",
+	"uploadWorks": [],
+	"followers": [
+		24,
+		25,
+		27,
+		28
+	],
+	"following": [],
+	"avatarUrl": "/images/default.webp"
+}

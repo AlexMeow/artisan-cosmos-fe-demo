@@ -11,7 +11,7 @@ const Browse = ({ selectedTag }) => {
         console.log(selectedTag);
         const fetchArtworks = async () => {
             try {
-                let url = "http://localhost:8080/api/works/get-all-works";
+                let url = "/data/get-all-works.json";
                 if (selectedTag) {
                     url += `?tag=${selectedTag}`;
                   }

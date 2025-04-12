@@ -15,7 +15,7 @@ const ArtworkDetailsPage = () => {
             try {
                 setIsLoading(true);
                 Swal.showLoading();
-                const res = await fetch("http://localhost:8080/api/works/get-all-works");
+                const res = await fetch("/data/get-all-works.json");
                 const data = await res.json();
                 setArtworks(data);
             } catch (error) {

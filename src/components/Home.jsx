@@ -15,8 +15,8 @@ const Home = () => {
             try {
                 setIsLoading(true);
                 Swal.showLoading();
-                const res = await fetch(`http://localhost:8080/api/works/get-all-works`);
-                const res2 = await fetch("http://localhost:8080/api/artists/get-all-artists");
+                const res = await fetch(`/data/get-all-works.json`);
+                const res2 = await fetch("/data/get-all-artists.json");
                 if (!res.ok) {
                     throw new Error("Works not found");
                 }
