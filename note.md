@@ -1,3 +1,6 @@
+# 部署
+`npx cross-env PUBLIC_URL=https://alexmeow.github.io/artisan-cosmos-fe-demo npm run build`
+
 # TO DO LIST
 1. 考慮加入管理員後台
    -> Admin帳號，擁有管理員權限，會多出一個user list頁面，可以BAN或刪掉USER
