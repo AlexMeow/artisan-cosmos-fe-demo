@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/artisan-cosmos-fe-demo/static/css/main.4badadfe.css",
-    "main.js": "/artisan-cosmos-fe-demo/static/js/main.ff4f05ea.js",
+    "main.js": "/artisan-cosmos-fe-demo/static/js/main.018782cf.js",
     "static/js/453.9cc11e34.chunk.js": "/artisan-cosmos-fe-demo/static/js/453.9cc11e34.chunk.js",
     "static/media/banner-bg4.png": "/artisan-cosmos-fe-demo/static/media/banner-bg4.a873dd15260f6d1cade7.png",
     "static/media/logo.png": "/artisan-cosmos-fe-demo/static/media/logo.9423d4c9316739a13b53.png",
     "index.html": "/artisan-cosmos-fe-demo/index.html",
     "main.4badadfe.css.map": "/artisan-cosmos-fe-demo/static/css/main.4badadfe.css.map",
-    "main.ff4f05ea.js.map": "/artisan-cosmos-fe-demo/static/js/main.ff4f05ea.js.map",
+    "main.018782cf.js.map": "/artisan-cosmos-fe-demo/static/js/main.018782cf.js.map",
     "453.9cc11e34.chunk.js.map": "/artisan-cosmos-fe-demo/static/js/453.9cc11e34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4badadfe.css",
-    "static/js/main.ff4f05ea.js"
+    "static/js/main.018782cf.js"
   ]
 }
