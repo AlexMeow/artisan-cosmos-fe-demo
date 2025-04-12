@@ -1,0 +1,183 @@
+[
+    {
+        "id": 40,
+        "name": "豎琴手聯盟派來的",
+        "tags": [
+            "電繪",
+            "原創",
+            "TRPG"
+        ],
+        "description": "<strike>全費倫最大的武裝份子組織。</strike>",
+        "imgUrls": [
+            "",
+            "",
+            ""
+        ],
+        "authorId": 27,
+        "createdDate": "2024-07-03T07:35:49.000+00:00",
+        "artist": {
+            "id": 27,
+            "name": "ChrisMeow",
+            "jobTitle": "斜槓軟體工程師",
+            "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+            "createdDate": "2024-07-03T07:31:53.000+00:00",
+            "uploadWorks": null,
+            "followers": null,
+            "following": null,
+            "avatarUrl": ""
+        }
+    },
+    {
+        "id": 45,
+        "name": "Fred",
+        "tags": [
+            "電繪",
+            "原創",
+            "TRPG"
+        ],
+        "description": "被困在鴉閣魔域的傢伙。",
+        "imgUrls": [
+            ""
+        ],
+        "authorId": 27,
+        "createdDate": "2024-07-03T08:02:33.000+00:00",
+        "artist": {
+            "id": 27,
+            "name": "ChrisMeow",
+            "jobTitle": "斜槓軟體工程師",
+            "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+            "createdDate": "2024-07-03T07:31:53.000+00:00",
+            "uploadWorks": null,
+            "followers": null,
+            "following": null,
+            "avatarUrl": ""
+        }
+    },
+    {
+        "id": 48,
+        "name": "瑪奇角色",
+        "tags": [
+            "電繪",
+            "Fanart",
+            "Mabinogi"
+        ],
+        "description": "我的瑪奇角色和他的小杖。",
+        "imgUrls": [
+            ""
+        ],
+        "authorId": 27,
+        "createdDate": "2024-07-03T08:13:39.000+00:00",
+        "artist": {
+            "id": 27,
+            "name": "ChrisMeow",
+            "jobTitle": "斜槓軟體工程師",
+            "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+            "createdDate": "2024-07-03T07:31:53.000+00:00",
+            "uploadWorks": null,
+            "followers": null,
+            "following": null,
+            "avatarUrl": ""
+        }
+    },
+    {
+        "id": 49,
+        "name": "Electron",
+        "tags": [
+            "電繪",
+            "原創"
+        ],
+        "description": "<div><span style=\"font-size: 16px; font-weight: 400;\">一顆快樂的好電子</span><span style=\"font-weight: bolder; font-size: 16px;\">&gt;:D</span></div>",
+        "imgUrls": [
+            ""
+        ],
+        "authorId": 27,
+        "createdDate": "2024-07-03T08:16:18.000+00:00",
+        "artist": {
+            "id": 27,
+            "name": "ChrisMeow",
+            "jobTitle": "斜槓軟體工程師",
+            "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+            "createdDate": "2024-07-03T07:31:53.000+00:00",
+            "uploadWorks": null,
+            "followers": null,
+            "following": null,
+            "avatarUrl": ""
+        }
+    },
+    {
+        "id": 51,
+        "name": "Matt",
+        "tags": [
+            "電繪",
+            "原創",
+            "TRPG"
+        ],
+        "description": "詭野西部的戰爭法師",
+        "imgUrls": [
+            ""
+        ],
+        "authorId": 27,
+        "createdDate": "2024-07-03T08:24:14.000+00:00",
+        "artist": {
+            "id": 27,
+            "name": "ChrisMeow",
+            "jobTitle": "斜槓軟體工程師",
+            "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+            "createdDate": "2024-07-03T07:31:53.000+00:00",
+            "uploadWorks": null,
+            "followers": null,
+            "following": null,
+            "avatarUrl": ""
+        }
+    },
+    {
+        "id": 52,
+        "name": "Meme Bro",
+        "tags": [
+            "電繪",
+            "原創"
+        ],
+        "description": "<h2>他們兩個真的是怪怪的。</h2>",
+        "imgUrls": [
+            ""
+        ],
+        "authorId": 27,
+        "createdDate": "2024-07-03T08:25:21.000+00:00",
+        "artist": {
+            "id": 27,
+            "name": "ChrisMeow",
+            "jobTitle": "斜槓軟體工程師",
+            "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+            "createdDate": "2024-07-03T07:31:53.000+00:00",
+            "uploadWorks": null,
+            "followers": null,
+            "following": null,
+            "avatarUrl": ""
+        }
+    },
+    {
+        "id": 53,
+        "name": "TEST",
+        "tags": [
+            "電繪"
+        ],
+        "description": "<b>TEST</b>",
+        "imgUrls": [
+            "",
+            ""
+        ],
+        "authorId": 27,
+        "createdDate": "2024-07-11T04:04:05.000+00:00",
+        "artist": {
+            "id": 27,
+            "name": "ChrisMeow",
+            "jobTitle": "斜槓軟體工程師",
+            "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+            "createdDate": "2024-07-03T07:31:53.000+00:00",
+            "uploadWorks": null,
+            "followers": null,
+            "following": null,
+            "avatarUrl": ""
+        }
+    }
+]

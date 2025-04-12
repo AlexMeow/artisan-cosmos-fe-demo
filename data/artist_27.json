@@ -1,0 +1,21 @@
+{
+	"id": 27,
+	"name": "ChrisMeow",
+	"jobTitle": "斜槓軟體工程師",
+	"bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+	"createdDate": "2024-07-03T07:31:53.000+00:00",
+	"uploadWorks": [],
+	"followers": [
+		24,
+		26,
+		25
+	],
+	"following": [
+		23,
+		24,
+		26,
+		25,
+		28
+	],
+	"avatarUrl": "/images/chris.jpg"
+}

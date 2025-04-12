@@ -1,0 +1,536 @@
+[
+  {
+    "id": 38,
+    "name": "Lion",
+    "tags": [
+      "攝影",
+      "Photograph",
+      "Animal"
+    ],
+    "description": "A handsome <i><b>lion</b></i>!🦁<div>照片來源：<a href=\"https://unsplash.com/photos/adult-lion-walking-beside-tree-ZxNKxnR32Ng\">https://unsplash.com/photos/adult-lion-walking-beside-tree-ZxNKxnR32Ng</a></div>",
+    "imgUrls": [
+      "/images/38.jpg"
+    ],
+    "authorId": 23,
+    "createdDate": "2024-07-03T07:13:33.000+00:00",
+    "artist": {
+      "id": 23,
+      "name": "Tommy",
+      "jobTitle": null,
+      "bio": "Write something about you! :)",
+      "createdDate": "2024-07-03T07:12:17.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        25,
+        27,
+        28
+      ],
+      "following": [],
+      "avatarUrl": "/images/default.webp"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Web design",
+    "tags": [
+      "Web",
+      "UI"
+    ],
+    "description": "一個網頁設計稿<div>(圖片來源：<a href=\"https://storyset.com/illustration/website-designer/amico\">Storyset</a>)</div>",
+    "imgUrls": [
+      "/images/39.svg"
+    ],
+    "authorId": 26,
+    "createdDate": "2024-07-03T07:31:16.000+00:00",
+    "artist": {
+      "id": 26,
+      "name": "PEPE",
+      "jobTitle": "UI/UX designer",
+      "bio": "<i><u>就是隻青蛙</u></i>",
+      "createdDate": "2024-07-03T07:27:55.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        27
+      ],
+      "following": [
+        24,
+        27
+      ],
+      "avatarUrl": "/images/pepe.jpg"
+    }
+  },
+  {
+    "id": 40,
+    "name": "豎琴手聯盟派來的",
+    "tags": [
+      "電繪",
+      "TRPG",
+      "原創"
+    ],
+    "description": "<strike>全費倫最大的武裝份子組織。</strike>",
+    "imgUrls": [
+      "/images/40-1.png",
+      "/images/40-2.png",
+      "/images/40-3.png"
+    ],
+    "authorId": 27,
+    "createdDate": "2024-07-03T07:35:49.000+00:00",
+    "artist": {
+      "id": 27,
+      "name": "ChrisMeow",
+      "jobTitle": "斜槓軟體工程師",
+      "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+      "createdDate": "2024-07-03T07:31:53.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        26,
+        25
+      ],
+      "following": [
+        23,
+        24,
+        26,
+        25,
+        28
+      ],
+      "avatarUrl": "/images/chris.jpg"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Sculpture",
+    "tags": [
+      "產品設計",
+      "Sculpture"
+    ],
+    "description": "造型花瓶<div>(照片來源：<a href=\"https://unsplash.com/photos/red-and-white-flowers-on-white-ceramic-figurine-xwgBzMnZLhU\">https://unsplash.com/photos/red-and-white-flowers-on-white-ceramic-figurine-xwgBzMnZLhU</a>)</div>",
+    "imgUrls": [
+      "/images/41.jpg"
+    ],
+    "authorId": 28,
+    "createdDate": "2024-07-03T07:47:02.000+00:00",
+    "artist": {
+      "id": 28,
+      "name": "企鵝",
+      "jobTitle": "接案中",
+      "bio": "<h2>嘿嘿:D</h2><div>頭圖來源：<a href=\"https://www.irasutoya.com/2022/07/blog-post_05.html\">Irasutoya</a></div>",
+      "createdDate": "2024-07-03T07:45:04.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        27
+      ],
+      "following": [
+        23,
+        29,
+        25
+      ],
+      "avatarUrl": "/images/animal_chara_radio_penguin.png"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Painting",
+    "tags": [
+      "油畫",
+      "手繪"
+    ],
+    "description": "(照片來源：<a href=\"https://unsplash.com/photos/abstract-painting-e5LdlAMpkEw\">https://unsplash.com/photos/abstract-painting-e5LdlAMpkEw</a>)",
+    "imgUrls": [
+      "/images/42.jpg"
+    ],
+    "authorId": 29,
+    "createdDate": "2024-07-03T07:49:21.000+00:00",
+    "artist": {
+      "id": 29,
+      "name": "Cool Guy😎",
+      "jobTitle": "Just be cool.",
+      "bio": "頭貼照片來源：<a href=\"https://unsplash.com/photos/a-man-standing-in-front-of-a-car-smoking-a-cigarette-uTlMt9o7SHE\">https://unsplash.com/photos/a-man-standing-in-front-of-a-car-smoking-a-cigarette-uTlMt9o7SHE</a>",
+      "createdDate": "2024-07-03T07:48:03.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        28
+      ],
+      "following": [],
+      "avatarUrl": "/images/coolGuy.jpg"
+    }
+  },
+  {
+    "id": 43,
+    "name": "勞贖",
+    "tags": [
+      "倉鼠",
+      "攝影",
+      "寵物",
+      "Photograph",
+      "Animal"
+    ],
+    "description": "照片來源：<a href=\"https://unsplash.com/photos/selective-focus-photography-of-brown-hamster-adK3Vu70DEQ\">https://unsplash.com/photos/selective-focus-photography-of-brown-hamster-adK3Vu70DEQ</a>",
+    "imgUrls": [
+      "/images/43.jpg"
+    ],
+    "authorId": 24,
+    "createdDate": "2024-07-03T07:53:58.000+00:00",
+    "artist": {
+      "id": 24,
+      "name": "Gina",
+      "jobTitle": "寵物攝影師",
+      "bio": "<div><span style=\"text-align: var(--bs-body-text-align);\">Tommy used to work on the docks</span><br></div><div>Unions been on strike</div><div>He's down on his luck... it's tough, so tough</div><div>Gina works the diner all day</div><div>Working for her man, she brings home her pay</div><div>For love - for love&nbsp;♫</div><div><br></div><div><div>頭貼照片來源：<a href=\"https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw\">https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw</a></div></div>",
+      "createdDate": "2024-07-03T07:14:11.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        25,
+        26,
+        27
+      ],
+      "following": [
+        23,
+        27,
+        28
+      ],
+      "avatarUrl": "/images/gina.png"
+    }
+  },
+  {
+    "id": 44,
+    "name": "卯咪",
+    "tags": [
+      "寵物",
+      "攝影",
+      "Photograph",
+      "Animal",
+      "貓"
+    ],
+    "description": "A nice kitty!<div>照片來源：<a href=\"https://unsplash.com/photos/shallow-focus-photography-of-brown-tabby-kitten-on-couch-KHBvwAnWFmc\">https://unsplash.com/photos/shallow-focus-photography-of-brown-tabby-kitten-on-couch-KHBvwAnWFmc</a></div>",
+    "imgUrls": [
+      "/images/44.jpg"
+    ],
+    "authorId": 24,
+    "createdDate": "2024-07-03T07:55:22.000+00:00",
+    "artist": {
+      "id": 24,
+      "name": "Gina",
+      "jobTitle": "寵物攝影師",
+      "bio": "<div><span style=\"text-align: var(--bs-body-text-align);\">Tommy used to work on the docks</span><br></div><div>Unions been on strike</div><div>He's down on his luck... it's tough, so tough</div><div>Gina works the diner all day</div><div>Working for her man, she brings home her pay</div><div>For love - for love&nbsp;♫</div><div><br></div><div><div>頭貼照片來源：<a href=\"https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw\">https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw</a></div></div>",
+      "createdDate": "2024-07-03T07:14:11.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        25,
+        26,
+        27
+      ],
+      "following": [
+        23,
+        27,
+        28
+      ],
+      "avatarUrl": "/images/gina.png"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Fred",
+    "tags": [
+      "電繪",
+      "TRPG",
+      "原創"
+    ],
+    "description": "被困在鴉閣魔域的傢伙。",
+    "imgUrls": [
+      "/images/45.png"
+    ],
+    "authorId": 27,
+    "createdDate": "2024-07-03T08:02:33.000+00:00",
+    "artist": {
+      "id": 27,
+      "name": "ChrisMeow",
+      "jobTitle": "斜槓軟體工程師",
+      "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+      "createdDate": "2024-07-03T07:31:53.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        26,
+        25
+      ],
+      "following": [
+        23,
+        24,
+        26,
+        25,
+        28
+      ],
+      "avatarUrl": "/images/chris.jpg"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Ocean",
+    "tags": [
+      "攝影",
+      "Photograph",
+      "風景"
+    ],
+    "description": "照片來源：<a href=\"https://unsplash.com/photos/body-of-water-during-golden-hour-oQl0eVYd_n8\">https://unsplash.com/photos/body-of-water-during-golden-hour-oQl0eVYd_n8</a>",
+    "imgUrls": [
+      "/images/46.jpg"
+    ],
+    "authorId": 30,
+    "createdDate": "2024-07-03T08:09:37.000+00:00",
+    "artist": {
+      "id": 30,
+      "name": "Honk",
+      "jobTitle": null,
+      "bio": "呱呱呱🦆<div>頭貼來源：<a href=\"https://www.irasutoya.com/2012/12/blog-post_69.html\">Irasutoya</a></div>",
+      "createdDate": "2024-07-03T08:07:54.000+00:00",
+      "uploadWorks": [],
+      "followers": [],
+      "following": [],
+      "avatarUrl": "/images/honk.png"
+    }
+  },
+  {
+    "id": 47,
+    "name": "手工牛津鞋",
+    "tags": [
+      "產品設計"
+    ],
+    "description": "照片來源：<a href=\"https://unsplash.com/photos/unpaired-green-leather-shoe-on-top-of-white-box-KStSiM1UvPw\">https://unsplash.com/photos/unpaired-green-leather-shoe-on-top-of-white-box-KStSiM1UvPw</a>",
+    "imgUrls": [
+      "/images/47.jpg"
+    ],
+    "authorId": 28,
+    "createdDate": "2024-07-03T08:11:17.000+00:00",
+    "artist": {
+      "id": 28,
+      "name": "企鵝",
+      "jobTitle": "接案中",
+      "bio": "<h2>嘿嘿:D</h2><div>頭圖來源：<a href=\"https://www.irasutoya.com/2022/07/blog-post_05.html\">Irasutoya</a></div>",
+      "createdDate": "2024-07-03T07:45:04.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        27
+      ],
+      "following": [
+        23,
+        29,
+        25
+      ],
+      "avatarUrl": "/images/animal_chara_radio_penguin.png"
+    }
+  },
+  {
+    "id": 48,
+    "name": "瑪奇角色",
+    "tags": [
+      "Mabinogi",
+      "電繪",
+      "Fanart"
+    ],
+    "description": "我的瑪奇角色和他的小杖。",
+    "imgUrls": [
+      "/images/48.jpg"
+    ],
+    "authorId": 27,
+    "createdDate": "2024-07-03T08:13:39.000+00:00",
+    "artist": {
+      "id": 27,
+      "name": "ChrisMeow",
+      "jobTitle": "斜槓軟體工程師",
+      "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+      "createdDate": "2024-07-03T07:31:53.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        26,
+        25
+      ],
+      "following": [
+        23,
+        24,
+        26,
+        25,
+        28
+      ],
+      "avatarUrl": "/images/chris.jpg"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Electron",
+    "tags": [
+      "電繪",
+      "原創"
+    ],
+    "description": "<div><span style=\"font-size: 16px; font-weight: 400;\">一顆快樂的好電子</span><span style=\"font-weight: bolder; font-size: 16px;\">&gt;:D</span></div>",
+    "imgUrls": [
+      "/images/49.png"
+    ],
+    "authorId": 27,
+    "createdDate": "2024-07-03T08:16:18.000+00:00",
+    "artist": {
+      "id": 27,
+      "name": "ChrisMeow",
+      "jobTitle": "斜槓軟體工程師",
+      "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+      "createdDate": "2024-07-03T07:31:53.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        26,
+        25
+      ],
+      "following": [
+        23,
+        24,
+        26,
+        25,
+        28
+      ],
+      "avatarUrl": "/images/chris.jpg"
+    }
+  },
+  {
+    "id": 50,
+    "name": "狗勾",
+    "tags": [
+      "寵物",
+      "攝影",
+      "Photograph"
+    ],
+    "description": "超可愛的狗勾～<div>照片來源：<a href=\"https://unsplash.com/photos/selective-focus-photography-of-dog-lying-on-ground-uKtvYMGe8ls\">https://unsplash.com/photos/selective-focus-photography-of-dog-lying-on-ground-uKtvYMGe8ls</a></div>",
+    "imgUrls": [
+      "/images/50.jpg"
+    ],
+    "authorId": 24,
+    "createdDate": "2024-07-03T08:20:28.000+00:00",
+    "artist": {
+      "id": 24,
+      "name": "Gina",
+      "jobTitle": "寵物攝影師",
+      "bio": "<div><span style=\"text-align: var(--bs-body-text-align);\">Tommy used to work on the docks</span><br></div><div>Unions been on strike</div><div>He's down on his luck... it's tough, so tough</div><div>Gina works the diner all day</div><div>Working for her man, she brings home her pay</div><div>For love - for love&nbsp;♫</div><div><br></div><div><div>頭貼照片來源：<a href=\"https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw\">https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw</a></div></div>",
+      "createdDate": "2024-07-03T07:14:11.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        25,
+        26,
+        27
+      ],
+      "following": [
+        23,
+        27,
+        28
+      ],
+      "avatarUrl": "/images/gina.png"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Matt",
+    "tags": [
+      "電繪",
+      "TRPG",
+      "原創"
+    ],
+    "description": "詭野西部的戰爭法師",
+    "imgUrls": [
+      "/images/51.jpg"
+    ],
+    "authorId": 27,
+    "createdDate": "2024-07-03T08:24:14.000+00:00",
+    "artist": {
+      "id": 27,
+      "name": "ChrisMeow",
+      "jobTitle": "斜槓軟體工程師",
+      "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+      "createdDate": "2024-07-03T07:31:53.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        26,
+        25
+      ],
+      "following": [
+        23,
+        24,
+        26,
+        25,
+        28
+      ],
+      "avatarUrl": "/images/chris.jpg"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Meme Bro",
+    "tags": [
+      "電繪",
+      "原創"
+    ],
+    "description": "<h2>他們兩個真的是怪怪的。</h2>",
+    "imgUrls": [
+      "/images/52.png"
+    ],
+    "authorId": 27,
+    "createdDate": "2024-07-03T08:25:21.000+00:00",
+    "artist": {
+      "id": 27,
+      "name": "ChrisMeow",
+      "jobTitle": "斜槓軟體工程師",
+      "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+      "createdDate": "2024-07-03T07:31:53.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        26,
+        25
+      ],
+      "following": [
+        23,
+        24,
+        26,
+        25,
+        28
+      ],
+      "avatarUrl": "/images/chris.jpg"
+    }
+  },
+  {
+    "id": 53,
+    "name": "TEST",
+    "tags": [
+      "電繪"
+    ],
+    "description": "<b>TEST</b>",
+    "imgUrls": [
+      "/images/53-1.png",
+      "/images/53-2.png"
+    ],
+    "authorId": 27,
+    "createdDate": "2024-07-11T04:04:05.000+00:00",
+    "artist": {
+      "id": 27,
+      "name": "ChrisMeow",
+      "jobTitle": "斜槓軟體工程師",
+      "bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+      "createdDate": "2024-07-03T07:31:53.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        26,
+        25
+      ],
+      "following": [
+        23,
+        24,
+        26,
+        25,
+        28
+      ],
+      "avatarUrl": "/images/chris.jpg"
+    }
+  }
+]

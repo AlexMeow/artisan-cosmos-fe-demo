@@ -1,0 +1,134 @@
+[
+	{
+		"id": 23,
+		"name": "Tommy",
+		"jobTitle": null,
+		"bio": "Write something about you! :)",
+		"createdDate": "2024-07-03T07:12:17.000+00:00",
+		"uploadWorks": [],
+		"followers": [
+			24,
+			25,
+			27,
+			28
+		],
+		"following": [],
+		"avatarUrl": "/images/default.webp"
+	},
+	{
+		"id": 24,
+		"name": "Gina",
+		"jobTitle": "寵物攝影師",
+		"bio": "<div><span style=\"text-align: var(--bs-body-text-align);\">Tommy used to work on the docks</span><br></div><div>Unions been on strike</div><div>He's down on his luck... it's tough, so tough</div><div>Gina works the diner all day</div><div>Working for her man, she brings home her pay</div><div>For love - for love&nbsp;♫</div><div><br></div><div><div>頭貼照片來源：<a href=\"https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw\">https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw</a></div></div>",
+		"createdDate": "2024-07-03T07:14:11.000+00:00",
+		"uploadWorks": [],
+		"followers": [
+			25,
+			26,
+			27
+		],
+		"following": [
+			23,
+			27,
+			28
+		],
+		"avatarUrl": "/images/gina.png"
+	},
+	{
+		"id": 25,
+		"name": "嘿嘿\uD83E\uDEE0",
+		"jobTitle": "來看看的",
+		"bio": "Write something about you! :)",
+		"createdDate": "2024-07-03T07:26:19.000+00:00",
+		"uploadWorks": [],
+		"followers": [
+			27,
+			28
+		],
+		"following": [
+			24,
+			23,
+			27
+		],
+		"avatarUrl": "/images/default.webp"
+	},
+	{
+		"id": 26,
+		"name": "PEPE",
+		"jobTitle": "UI/UX designer",
+		"bio": "<i><u>就是隻青蛙</u></i>",
+		"createdDate": "2024-07-03T07:27:55.000+00:00",
+		"uploadWorks": [],
+		"followers": [
+			27
+		],
+		"following": [
+			24,
+			27
+		],
+		"avatarUrl": "/images/pepe.jpg"
+	},
+	{
+		"id": 27,
+		"name": "ChrisMeow",
+		"jobTitle": "斜槓軟體工程師",
+		"bio": "<div>歡迎來信委託:D</div><div><br></div><div><ul><li>Email: For@example.com</li><li>FB:&nbsp;<a href=\"https://fb.com\">https://fb.com</a></li><li>IG:&nbsp;<a href=\"https://ig.com\">https://ig.com</a></li></ul></div>",
+		"createdDate": "2024-07-03T07:31:53.000+00:00",
+		"uploadWorks": [],
+		"followers": [
+			24,
+			26,
+			25
+		],
+		"following": [
+			23,
+			24,
+			26,
+			25,
+			28
+		],
+		"avatarUrl": "/images/chris.jpg"
+	},
+	{
+		"id": 28,
+		"name": "企鵝",
+		"jobTitle": "接案中",
+		"bio": "<h2>嘿嘿:D</h2><div>頭圖來源：<a href=\"https://www.irasutoya.com/2022/07/blog-post_05.html\">Irasutoya</a></div>",
+		"createdDate": "2024-07-03T07:45:04.000+00:00",
+		"uploadWorks": [],
+		"followers": [
+			24,
+			27
+		],
+		"following": [
+			23,
+			29,
+			25
+		],
+		"avatarUrl": "/images/animal_chara_radio_penguin.png"
+	},
+	{
+		"id": 29,
+		"name": "Cool Guy\uD83D\uDE0E",
+		"jobTitle": "Just be cool.",
+		"bio": "頭貼照片來源：<a href=\"https://unsplash.com/photos/a-man-standing-in-front-of-a-car-smoking-a-cigarette-uTlMt9o7SHE\">https://unsplash.com/photos/a-man-standing-in-front-of-a-car-smoking-a-cigarette-uTlMt9o7SHE</a>",
+		"createdDate": "2024-07-03T07:48:03.000+00:00",
+		"uploadWorks": [],
+		"followers": [
+			28
+		],
+		"following": [],
+		"avatarUrl": "/images/coolGuy.jpg"
+	},
+	{
+		"id": 30,
+		"name": "Honk",
+		"jobTitle": null,
+		"bio": "呱呱呱\uD83E\uDD86<div>頭貼來源：<a href=\"https://www.irasutoya.com/2012/12/blog-post_69.html\">Irasutoya</a></div>",
+		"createdDate": "2024-07-03T08:07:54.000+00:00",
+		"uploadWorks": [],
+		"followers": [],
+		"following": [],
+		"avatarUrl": "/images/honk.png"
+	}
+]

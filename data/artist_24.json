@@ -1,0 +1,19 @@
+{
+	"id": 24,
+	"name": "Gina",
+	"jobTitle": "寵物攝影師",
+	"bio": "<div><span style=\"text-align: var(--bs-body-text-align);\">Tommy used to work on the docks</span><br></div><div>Unions been on strike</div><div>He's down on his luck... it's tough, so tough</div><div>Gina works the diner all day</div><div>Working for her man, she brings home her pay</div><div>For love - for love&nbsp;♫</div><div><br></div><div><div>頭貼照片來源：<a href=\"https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw\">https://unsplash.com/photos/a-white-cat-is-being-fed-by-a-person-vSaiyYyS0cw</a></div></div>",
+	"createdDate": "2024-07-03T07:14:11.000+00:00",
+	"uploadWorks": [],
+	"followers": [
+		25,
+		26,
+		27
+	],
+	"following": [
+		23,
+		27,
+		28
+	],
+	"avatarUrl": "/images/gina.png"
+}

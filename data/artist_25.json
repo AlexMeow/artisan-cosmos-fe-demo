@@ -1,0 +1,18 @@
+{
+	"id": 25,
+	"name": "嘿嘿\uD83E\uDEE0",
+	"jobTitle": "來看看的",
+	"bio": "Write something about you! :)",
+	"createdDate": "2024-07-03T07:26:19.000+00:00",
+	"uploadWorks": [],
+	"followers": [
+		27,
+		28
+	],
+	"following": [
+		24,
+		23,
+		27
+	],
+	"avatarUrl": "/images/default.webp"
+}

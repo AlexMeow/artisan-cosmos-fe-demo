@@ -1,0 +1,13 @@
+{
+	"id": 29,
+	"name": "Cool Guy\uD83D\uDE0E",
+	"jobTitle": "Just be cool.",
+	"bio": "頭貼照片來源：<a href=\"https://unsplash.com/photos/a-man-standing-in-front-of-a-car-smoking-a-cigarette-uTlMt9o7SHE\">https://unsplash.com/photos/a-man-standing-in-front-of-a-car-smoking-a-cigarette-uTlMt9o7SHE</a>",
+	"createdDate": "2024-07-03T07:48:03.000+00:00",
+	"uploadWorks": [],
+	"followers": [
+		28
+	],
+	"following": [],
+	"avatarUrl": "/images/coolGuy.jpg"
+}

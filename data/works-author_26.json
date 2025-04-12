@@ -1,0 +1,32 @@
+[
+  {
+    "id": 39,
+    "name": "Web design",
+    "tags": [
+      "Web",
+      "UI"
+    ],
+    "description": "一個網頁設計稿<div>(圖片來源：<a href=\"https://storyset.com/illustration/website-designer/amico\">Storyset</a>)</div>",
+    "imgUrls": [
+      "/images/39.svg"
+    ],
+    "authorId": 26,
+    "createdDate": "2024-07-03T07:31:16.000+00:00",
+    "artist": {
+      "id": 26,
+      "name": "PEPE",
+      "jobTitle": "UI/UX designer",
+      "bio": "<i><u>就是隻青蛙</u></i>",
+      "createdDate": "2024-07-03T07:27:55.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        27
+      ],
+      "following": [
+        24,
+        27
+      ],
+      "avatarUrl": "/images/pepe.jpg"
+    }
+  }
+]

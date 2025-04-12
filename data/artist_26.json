@@ -1,0 +1,16 @@
+{
+	"id": 26,
+	"name": "PEPE",
+	"jobTitle": "UI/UX designer",
+	"bio": "<i><u>就是隻青蛙</u></i>",
+	"createdDate": "2024-07-03T07:27:55.000+00:00",
+	"uploadWorks": [],
+	"followers": [
+		27
+	],
+	"following": [
+		24,
+		27
+	],
+	"avatarUrl": "/images/pepe.jpg"
+}

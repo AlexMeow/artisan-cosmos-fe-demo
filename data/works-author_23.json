@@ -1,0 +1,33 @@
+[
+  {
+    "id": 38,
+    "name": "Lion",
+    "tags": [
+      "攝影",
+      "Photograph",
+      "Animal"
+    ],
+    "description": "A handsome <i><b>lion</b></i>!🦁<div>照片來源：<a href=\"https://unsplash.com/photos/adult-lion-walking-beside-tree-ZxNKxnR32Ng\">https://unsplash.com/photos/adult-lion-walking-beside-tree-ZxNKxnR32Ng</a></div>",
+    "imgUrls": [
+      "/images/38.jpg"
+    ],
+    "authorId": 23,
+    "createdDate": "2024-07-03T07:13:33.000+00:00",
+    "artist": {
+      "id": 23,
+      "name": "Tommy",
+      "jobTitle": null,
+      "bio": "Write something about you! :)",
+      "createdDate": "2024-07-03T07:12:17.000+00:00",
+      "uploadWorks": [],
+      "followers": [
+        24,
+        25,
+        27,
+        28
+      ],
+      "following": [],
+      "avatarUrl": "/images/default.webp"
+    }
+  }
+]
