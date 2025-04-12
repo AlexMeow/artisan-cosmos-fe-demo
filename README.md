@@ -1,6 +1,5 @@
 # Note
-還沒改，預計要把每個打後端的API都改成打本地端json檔
-然後登入狀態想想看怎麼弄
+TBD 登入狀態
 
 # Credit
 SVG示意圖來源: Storyset
